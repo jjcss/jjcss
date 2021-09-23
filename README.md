@@ -1,15 +1,28 @@
+![](https://i.imgur.com/Skpz7Ag.png)                   ![](https://i.imgur.com/zJpBVKn.png)
+
 <h2> Hey there! Welcome to the Computer Science Society Club Github.</h2>
 
-<h4> This Github will be a place where all club members will be able to access any project files that we go over during our workshops and we will also be adding additional projects that we do on the side. If you have a project that you would like to upload to the club repository, make sure to message any of the executives on discord and we can begin the process we have in place to have your files uploaded. 
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<h3> 👨🏻‍💻 &nbsp;Club links </h3>
+- 🤔 &nbsp; Aspiring Software Engineer and IOS Developer.
+- 🎓 &nbsp; Studying Computer Science/Information Security at John Jay College of Criminal Justice.
+- 💼 &nbsp; CodePath IOS Development Tech Fellow (Fall 2021)
+- 🌱 &nbsp; Learning more about SwiftUI/Python frameworks.
+- ✍️ &nbsp; Pursuing Stock Market trading & playing the piano as hobbies/side hustles.
 
-- 🤔 &nbsp; https://discord.gg/fJZKErEnPa
-- 🎓 &nbsp; Email: computersocjjay@gmail.com
-- 💼 &nbsp; Instagram: https://www.instagram.com/jjccomputerscience/
-- 🌱 &nbsp; Sign-up Form to receive club email updates: https://docs.google.com/forms/d/e/1FAIpQLSefHY3t8HakF0VvY5jLKppv0XIaU7a0ZdfbTkSHzs1ObCSgsA/viewform
-- ✍️ &nbsp; Club website coming soon!
-  
-<h3> About Us </h3>
+### Hi there 👋
 
-The Computer Science Society (CSS) is dedicated to promoting the STEM field, specifically computer science, technology, and mathematics. We work to provide resources for any student, alumni, and professionals regardless of an individual's degree of knowledge or commitment in the field of computer science. CSS meets and hosts events that provide opportunities for networking, educational, and professional development related to computer science and technology. Our mission is to provide students with the skills, resources, motivation, and training necessary to become successful leaders in STEM.</h3>
+<!--
+**jjcss/jjcss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
