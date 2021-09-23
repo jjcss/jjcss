@@ -1,3 +1,13 @@
+<h2> Hey there! Welcome to the Computer Science Society Club Github.</h2>
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Aspiring Software Engineer and IOS Developer.
+- 🎓 &nbsp; Studying Computer Science/Information Security at John Jay College of Criminal Justice.
+- 💼 &nbsp; CodePath IOS Development Tech Fellow (Fall 2021)
+- 🌱 &nbsp; Learning more about SwiftUI/Python frameworks.
+- ✍️ &nbsp; Pursuing Stock Market trading & playing the piano as hobbies/side hustles.
+
 ### Hi there 👋
 
 <!--
