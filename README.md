@@ -2,13 +2,13 @@
 
 <h4> This Github will be a place where all club members will be able to access any project files that we go over during our workshops and we will also be adding additional projects that we do on the side. If you have a project that you would like to upload to the club repository, make sure to message any of the executives on discord and we can begin the process we have in place to have your files uploaded. 
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;Club links </h3>
 
-- 🤔 &nbsp; Aspiring Software Engineer and IOS Developer.
-- 🎓 &nbsp; Studying Computer Science/Information Security at John Jay College of Criminal Justice.
-- 💼 &nbsp; CodePath IOS Development Tech Fellow (Fall 2021)
-- 🌱 &nbsp; Learning more about SwiftUI/Python frameworks.
-- ✍️ &nbsp; Pursuing Stock Market trading & playing the piano as hobbies/side hustles.
+- 🤔 &nbsp; https://discord.gg/fJZKErEnPa
+- 🎓 &nbsp; Email: computersocjjay@gmail.com
+- 💼 &nbsp; Instagram: https://www.instagram.com/jjccomputerscience/
+- 🌱 &nbsp; Sign-up Form to receive club email updates: https://docs.google.com/forms/d/e/1FAIpQLSefHY3t8HakF0VvY5jLKppv0XIaU7a0ZdfbTkSHzs1ObCSgsA/viewform
+- ✍️ &nbsp; Club website coming soon!
 
 ### Hi there 👋
 
