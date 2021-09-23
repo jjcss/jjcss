@@ -30,72 +30,26 @@ The Computer Science Society (CSS) is dedicated to promoting the STEM field, spe
 
 **September**
 
-<p>Name of Event: **First General Meeting**<br> Date: September 9, 2021 (Thurs) <br> Time: 1:40 PM - 2:55 PM <br> Description: The club’s first general meeting where plans and upcoming events of the Spring semester will be discussed. </p>
+<p>Name of Event: <b> First General Meeting </b> <br> Date: September 9, 2021 (Thurs) <br> Time: 1:40 PM - 2:55 PM <br> Description: The club’s first general meeting where plans and upcoming events of the Spring semester will be discussed. <br> Zoom Link: 
+https://jjay-cuny.zoom.us/j/85740317559?pwd=MFpVN3RrNDFuc2hTdG1pRXFmWlkyQT09 <br> Meeting ID: 857 4031 7559 <br> Passcode: 405367 </p>
 
-Name of Event: **First General Meeting**
-Date: September 9, 2021 (Thurs)
-Time: 1:40 PM - 2:55 PM
-Description: The club’s first general meeting where plans and upcoming events of the Spring semester will be discussed.
-Zoom Link: 
-https://jjay-cuny.zoom.us/j/85740317559?pwd=MFpVN3RrNDFuc2hTdG1pRXFmWlkyQT09
-Meeting ID: 857 4031 7559
-Passcode: 405367
-
-
-Name of Event: **Python Workshop**
-Date: September 23, 2021 (Thurs)
-Time: 1:40 PM - 2:55 PM
-Description: The club’s executives will show members of the club how to do a Python-related project which can then be uploaded into their portfolio.
-Zoom Link: 
-https://jjay-cuny.zoom.us/j/84143030855?pwd=djV0VEFRdXgvTTd0R0VhOUdhZXVHQT09
-Meeting ID: 841 4303 0855
-Passcode: 313451
+<p>Name of Event: <b> Python Workshop </b> <br> Date: September 23, 2021 (Thurs) <br> Time: 1:40 PM - 2:55 PM <br> Description: The club’s executives will show members of the club how to do a Python-related project which can then be uploaded into their portfolio. <br> Zoom Link: 
+https://jjay-cuny.zoom.us/j/84143030855?pwd=djV0VEFRdXgvTTd0R0VhOUdhZXVHQT09 <br> Meeting ID: 841 4303 0855 <br> Passcode: 313451 </p>
  
 **October**
 
-Name of Event: **HTML/CSS Workshop**
-Date: October 7, 2021 (Thurs)
-Time: 1:40 PM - 2:55 PM
-Description: You will learn how to create a Python snake line game.
-Zoom Link: 
-https://jjay-cuny.zoom.us/j/88197540049?pwd=VEJxMWFLNnZpV3RFTm9vY1hQaHdzUT09
-Meeting ID: 881 9754 0049
-Passcode:N
+<p> Name of Event: <b> HTML/CSS Workshop** </b> <br> Date: October 7, 2021 (Thurs) <br> Time: 1:40 PM - 2:55 PM <br> Description: You will learn how to create a Python snake line game. <br> Zoom Link: 
+https://jjay-cuny.zoom.us/j/88197540049?pwd=VEJxMWFLNnZpV3RFTm9vY1hQaHdzUT09 <br> Meeting ID: 881 9754 0049 <br> Passcode:N </p>
 
-
-
-
-Name of Event: **Networking Event**
-Date: October 21, 2021 (Thurs)
-Time: 1:40 PM - 2:55 PM
-Description: You will learn about the various opportunities at John Jay College and in the Computer Science Field. And, this would be a meeting to network with other students.
-Zoom Link: 
-https://jjay-cuny.zoom.us/j/86304619228?pwd=b0R4a1NoSHppWS9lWmM3S1hvdFJSUT09
-Meeting ID: 863 0461 9228
-Passcode: 694955
-
-
+<p> Name of Event: <b> Networking Event </b> <br> Date: October 21, 2021 (Thurs) <br> Time: 1:40 PM - 2:55 PM <br> Description: You will learn about the various opportunities at John Jay College and in the Computer Science Field. And, this would be a meeting to network with other students. <br> Zoom Link: 
+https://jjay-cuny.zoom.us/j/86304619228?pwd=b0R4a1NoSHppWS9lWmM3S1hvdFJSUT09 <br> Meeting ID: 863 0461 9228 <br> Passcode: 694955  </p>
 
 **November**
 
-Name of Event: **Javascript Guessing Game**
-Date: November 11th, 2021 (Thurs)
-Time: 1:40pm-2:55pm
-Description: You will learn how to create a guessing game using HTML/CSS/Javascript.
-Zoom Link: 
-https://jjay-cuny.zoom.us/j/81691258888?pwd=WlVzamxnTjdva2RPMmpObHdBK3A3dz09
-Meeting ID: 816 9125 8888
-Passcode: 536206
-
-
+<p> Name of Event: <b> Javascript Guessing Game </b> <br> Date: November 11th, 2021 (Thurs) <br> Time: 1:40pm-2:55pm <br> Description: You will learn how to create a guessing game using HTML/CSS/Javascript. <br> Zoom Link: 
+https://jjay-cuny.zoom.us/j/81691258888?pwd=WlVzamxnTjdva2RPMmpObHdBK3A3dz09 <br> Meeting ID: 816 9125 8888 <br> Passcode: 536206 </p>
 
 **December**
 
-Name of Event: **Movie/Game Night & Final General Meeting**
-Date: December 2nd, 2021 (Thurs)
-Time: 1:40pm-2:55pm
-Description: The club’s last general meeting will include online games/watching a movie which all members will decide on later on.
-Zoom Link: 
-https://jjay-cuny.zoom.us/j/83760994794?pwd=aXBuT1ZUYXF3SXVjcjI5NVFlK05xUT09
-Meeting ID: 837 6099 4794
-Passcode: 761385
+<p> Name of Event: <b> Movie/Game Night & Final General Meeting </b> <br> Date: December 2nd, 2021 (Thurs) <br> Time: 1:40pm-2:55pm <br> Description: The club’s last general meeting will include online games/watching a movie which all members will decide on later on. <br> Zoom Link: 
+https://jjay-cuny.zoom.us/j/83760994794?pwd=aXBuT1ZUYXF3SXVjcjI5NVFlK05xUT09 <br> Meeting ID: 837 6099 4794 <br> Passcode: 761385 </p>
