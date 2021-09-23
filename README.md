@@ -1,5 +1,7 @@
 <h2> Hey there! Welcome to the Computer Science Society Club Github.</h2>
 
+<h4> This Github will be a place where all club members will be able to access any project files that we go over during our workshops and we will also be adding additional projects that we do on the side. If you have a project that you would like to upload to the club repository, make sure to message any of the executives on discord and we can begin the process we have in place to have your files uploaded. 
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Aspiring Software Engineer and IOS Developer.
