@@ -39,7 +39,7 @@ https://jjay-cuny.zoom.us/j/84143030855?pwd=djV0VEFRdXgvTTd0R0VhOUdhZXVHQT09 <br
 **October**
 
 <p> Name of Event: <b> HTML/CSS Workshop** </b> <br> Date: October 7, 2021 (Thurs) <br> Time: 1:40 PM - 2:55 PM <br> Description: You will learn how to create a Python snake line game. <br> Zoom Link: 
-https://jjay-cuny.zoom.us/j/88197540049?pwd=VEJxMWFLNnZpV3RFTm9vY1hQaHdzUT09 <br> Meeting ID: 881 9754 0049 <br> Passcode:N </p>
+https://jjay-cuny.zoom.us/j/88197540049?pwd=VEJxMWFLNnZpV3RFTm9vY1hQaHdzUT09 <br> Meeting ID: 881 9754 0049 <br> Passcode:997721 </p>
 
 <p> Name of Event: <b> Networking Event </b> <br> Date: October 21, 2021 (Thurs) <br> Time: 1:40 PM - 2:55 PM <br> Description: You will learn about the various opportunities at John Jay College and in the Computer Science Field. And, this would be a meeting to network with other students. <br> Zoom Link: 
 https://jjay-cuny.zoom.us/j/86304619228?pwd=b0R4a1NoSHppWS9lWmM3S1hvdFJSUT09 <br> Meeting ID: 863 0461 9228 <br> Passcode: 694955  </p>
