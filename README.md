@@ -32,17 +32,11 @@ The Computer Science Society (CSS) is dedicated to promoting the STEM field, spe
 
 Name of Event: **First General Meeting**
 Date: September 9, 2021 (Thurs)
-
 Time: 1:40 PM - 2:55 PM
-
 Description: The club’s first general meeting where plans and upcoming events of the Spring semester will be discussed.
-
 Zoom Link: 
-
 https://jjay-cuny.zoom.us/j/85740317559?pwd=MFpVN3RrNDFuc2hTdG1pRXFmWlkyQT09
-
 Meeting ID: 857 4031 7559
-
 Passcode: 405367
 
 
