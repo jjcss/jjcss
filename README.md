@@ -30,6 +30,8 @@ The Computer Science Society (CSS) is dedicated to promoting the STEM field, spe
 
 **September**
 
+<p>Name of Event: **First General Meeting**<br> Date: September 9, 2021 (Thurs) <br> Time: 1:40 PM - 2:55 PM <br> Description: The club’s first general meeting where plans and upcoming events of the Spring semester will be discussed. </p>
+
 Name of Event: **First General Meeting**
 Date: September 9, 2021 (Thurs)
 Time: 1:40 PM - 2:55 PM
