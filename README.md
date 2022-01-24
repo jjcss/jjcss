@@ -1,4 +1,4 @@
-![](https://i.imgur.com/Skpz7Ag.png)                   ![](https://i.imgur.com/zJpBVKn.png)
+<img src="https://i.imgur.com/JybZuXd.png" alt="drawing" width="100"/> <img src="https://i.imgur.com/Bzkqs5I.png" alt="drawing" width="100"/>
 
 # Computer Science Society Club Github
 
@@ -26,30 +26,31 @@ The Computer Science Society (CSS) is dedicated to promoting the STEM field, spe
 ---
 
 
-# Fall 2021 Calendar of Events
+# Spring 2022 Calendar of Events
 
-**September**
+**February**
 
-<p>Name of Event: <b> First General Meeting </b> <br> Date: September 9, 2021 (Thurs) <br> Time: 1:40 PM - 2:55 PM <br> Description: The club’s first general meeting where plans and upcoming events of the Spring semester will be discussed. <br> Zoom Link: 
-https://jjay-cuny.zoom.us/j/85740317559?pwd=MFpVN3RrNDFuc2hTdG1pRXFmWlkyQT09 <br> Meeting ID: 857 4031 7559 <br> Passcode: 405367 </p>
+<p>Name of Event: <b> First General Meeting </b> <br> Date: February 8th, 2022 (Tues) <br> Time: 1:40 PM - 2:55 PM <br> Description: The club’s first general meeting where plans and upcoming events of the Spring semester will be discussed. <br> Zoom Link: 
+https://jjay-cuny.zoom.us/meeting/register/tZAqc-uqpj0tGNyPmcraE3XBWXn7KT_OYcsO <br> Meeting ID: 847 4228 6728
+ <br> Passcode: 708409 </p>
 
-<p>Name of Event: <b> Python Workshop </b> <br> Date: September 23, 2021 (Thurs) <br> Time: 1:40 PM - 2:55 PM <br> Description: The club’s executives will show members of the club how to do a Python-related project which can then be uploaded into their portfolio. <br> Zoom Link: 
-https://jjay-cuny.zoom.us/j/84143030855?pwd=djV0VEFRdXgvTTd0R0VhOUdhZXVHQT09 <br> Meeting ID: 841 4303 0855 <br> Passcode: 313451 </p>
+<p>Name of Event: <b> Career Prep Workshop </b> <br> Date: February 22nd, 2022 (Tues) <br> Time: 1:40 PM - 2:55 PM <br> Description: You will learn about the various opportunities at John Jay College and in the Computer Science Field. And, this would be a meeting to network with other students. <br> Zoom Link: 
+ https://jjay-cuny.zoom.us/meeting/register/tZAuf-CsqDgqH9UKDfz1n7dYv0eSlwl7cRvV <br> Meeting ID: 843 8946 3051 <br> Passcode: 085113 </p>
  
-**October**
+**March**
 
-<p> Name of Event: <b> HTML/CSS Workshop** </b> <br> Date: October 7, 2021 (Thurs) <br> Time: 1:40 PM - 2:55 PM <br> Description: You will learn how to create a Python snake line game. <br> Zoom Link: 
-https://jjay-cuny.zoom.us/j/88197540049?pwd=VEJxMWFLNnZpV3RFTm9vY1hQaHdzUT09 <br> Meeting ID: 881 9754 0049 <br> Passcode:997721 </p>
+<p> Name of Event: <b> Git/Github Workshop </b> <br> Date: March 15th, 2022 (Tues) <br> Time: 1:40 PM - 2:55 PM <br> Description: You will learn the basics of Git and Github. <br> Zoom Link: 
+https://jjay-cuny.zoom.us/meeting/register/tZAscuCuqD0vHdAl9sycll5aRIVZVXnRBB-m <br> Meeting ID: 841 5966 6574 <br> Passcode: 113467 </p>
 
-<p> Name of Event: <b> Networking Event </b> <br> Date: October 21, 2021 (Thurs) <br> Time: 1:40 PM - 2:55 PM <br> Description: You will learn about the various opportunities at John Jay College and in the Computer Science Field. And, this would be a meeting to network with other students. <br> Zoom Link: 
-https://jjay-cuny.zoom.us/j/86304619228?pwd=b0R4a1NoSHppWS9lWmM3S1hvdFJSUT09 <br> Meeting ID: 863 0461 9228 <br> Passcode: 694955  </p>
+<p> Name of Event: <b> Technical Interview Prep Workshop </b> <br> Date: March 29th, 2021 (Tues) <br> Time: 1:40 PM - 2:55 PM <br> Description: You will learn the necessary skills to excel in technical Interviews and you’ll learn/practice a couple of Data Structure questions. <br> Zoom Link: 
+https://jjay-cuny.zoom.us/meeting/register/tZMvduutrToqHtCxBD6SD1ToACxXHVypBlRH <br> Meeting ID: 872 1253 1044 <br> Passcode: 083836  </p>
 
-**November**
+**April**
 
-<p> Name of Event: <b> Javascript Guessing Game </b> <br> Date: November 11th, 2021 (Thurs) <br> Time: 1:40pm-2:55pm <br> Description: You will learn how to create a guessing game using HTML/CSS/Javascript. <br> Zoom Link: 
-https://jjay-cuny.zoom.us/j/81691258888?pwd=WlVzamxnTjdva2RPMmpObHdBK3A3dz09 <br> Meeting ID: 816 9125 8888 <br> Passcode: 536206 </p>
+<p> Name of Event: <b> Javascript Guessing Game </b> <br> Date: April 12th, 2022 (Tues) <br> Time: 1:40pm-2:55pm <br> Description: You will learn how to create a guessing game using HTML/CSS/Javascript. <br> Zoom Link: 
+https://jjay-cuny.zoom.us/meeting/register/tZUkcOmupz8jH9C7rRhCO_vw62bka0-yjzwk <br> Meeting ID: 819 7069 4954 <br> Passcode: 279298 </p>
 
-**December**
+**May**
 
-<p> Name of Event: <b> Movie/Game Night & Final General Meeting </b> <br> Date: December 2nd, 2021 (Thurs) <br> Time: 1:40pm-2:55pm <br> Description: The club’s last general meeting will include online games/watching a movie which all members will decide on later on. <br> Zoom Link: 
-https://jjay-cuny.zoom.us/j/83760994794?pwd=aXBuT1ZUYXF3SXVjcjI5NVFlK05xUT09 <br> Meeting ID: 837 6099 4794 <br> Passcode: 761385 </p>
+<p> Name of Event: <b> Python Workshop & Final General Meeting </b> <br> Date: May 3rd, 2022 (Tues) <br> Time: 1:40pm-2:55pm <br> Description: The club’s last general meeting will show members of the club how to do a Python-related project which can then be uploaded into their portfolio and we will summarize our Semester. <br> Zoom Link: 
+https://jjay-cuny.zoom.us/meeting/register/tZEqde-qpjsuGtXI-NYU-nTQWhY4ei-E2kXk <br> Meeting ID: 857 2628 0401 <br> Passcode: 733297 </p>
