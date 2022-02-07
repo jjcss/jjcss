@@ -15,7 +15,7 @@ This Github will be a place where all club members will be able to access any pr
 🎓   [Email](computersocjjay@gmail.com)
 💼   [Instagram](https://www.instagram.com/jjccomputerscience/)
 🌱   [Sign-up Form to receive club email updates](https://docs.google.com/forms/d/e/1FAIpQLSeaMK6d0-Rtbl9VybcUHBI0f9vQCGKXSb8MIISrhrdiUemKKA/viewform)
-✍️   Club website coming soon!
+✍️   [Club Website](https://jjaycss.tech/)
 
 # About us
 
