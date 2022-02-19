@@ -16,6 +16,8 @@ This Github will be a place where all club members will be able to access any pr
 💼   [Instagram](https://www.instagram.com/jjccomputerscience/)
 🌱   [Sign-up Form to receive club email updates](https://docs.google.com/forms/d/e/1FAIpQLSeaMK6d0-Rtbl9VybcUHBI0f9vQCGKXSb8MIISrhrdiUemKKA/viewform)
 ✍️   [Club Website](https://jjaycss.tech/)
+💎   [Club LinkedIn](https://www.linkedin.com/in/cssclub/)
+🔌 [Club Facebook](https://www.facebook.com/CSSJohnJay)
 
 # About us
 
