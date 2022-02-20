@@ -23,7 +23,10 @@ This Github will be a place where all club members will be able to access any pr
 
 The Computer Science Society (CSS) is dedicated to promoting the STEM field, specifically computer science, technology, and mathematics. We work to provide resources for any student, alumni, and professionals regardless of an individual's degree of knowledge or commitment in the field of computer science. CSS meets and hosts events that provide opportunities for networking, educational, and professional development related to computer science and technology. Our mission is to provide students with the skills, resources, motivation, and training necessary to become successful leaders in STEM.
 
+---
 
+# How to Contribute to Website
+<p>Are you interested in contributing to the Club's Official Website? If so, head over to our <a href="https://github.com/jjcss/CSS_Website">Website Repository</a>and begin reading the prompts to begin adding features to the Club's Website. The repository is open-source so feel free to add any features, regardless of size</p>
 
 ---
 
