@@ -25,8 +25,10 @@ The Computer Science Society (CSS) is dedicated to promoting the STEM field, spe
 
 ---
 
-# How to Contribute to Website
-<p>Are you interested in contributing to the Club's Official Website? If so, head over to our <a href="https://github.com/jjcss/CSS_Website">Website Repository</a>and begin reading the prompts to begin adding features to the Club's Website. The repository is open-source so feel free to add any features, regardless of size</p>
+# How to Contribute to the Club Website
+<p>Are you interested in contributing to the Club's Official Website? If so, head over to our <a href="https://github.com/jjcss/CSS_Website">Website Repository</a> and begin reading the prompts to begin adding features to the Club's Website. The repository is open-source so feel free to add any features, regardless of size.</p> <br>
+<br>
+<p>Morevoer, if you're not interested in submitting code, there is the option of suggesting features to the Club Executives or even letting the Board Executives know about any errors you encountered on the website. If you do, then head over to <a href="https://github.com/jjcss/CSS_Website/discussions">Club Website Discussion Section</a>. Feel free to submit any sort of discussion and one of the Club execs will get back to you.</p>
 
 ---
 
