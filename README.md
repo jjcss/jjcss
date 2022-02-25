@@ -24,7 +24,7 @@ This Github will be a place where all club members will be able to access any pr
 The Computer Science Society (CSS) is dedicated to promoting the STEM field, specifically computer science, technology, and mathematics. We work to provide resources for any student, alumni, and professionals regardless of an individual's degree of knowledge or commitment in the field of computer science. CSS meets and hosts events that provide opportunities for networking, educational, and professional development related to computer science and technology. Our mission is to provide students with the skills, resources, motivation, and training necessary to become successful leaders in STEM.
 
 # Executive Board
-- Leandro Gamarra (President)
+- <a href="https://www.leandrogamarra.com/" style="text-decoration=none;>Leandro Gamarra</a>
 - Luis Brito (Vice-President)
 - Tanizl Hassan (Secretary)
 - Rachel Perez (Treasurer)
