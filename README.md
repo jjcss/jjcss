@@ -11,7 +11,6 @@ This Github will be a place where all club members will be able to access any pr
 - [Executive Board](#Executive-Board)
 - [How to Contribute to the Club Website](#How-to-Contribute-to-the-Club-Website)
 - [Spring 2022 Calendar of Events](#Spring-2022-Calendar-of-Events)
-- [Future Features](#Future-Features)
 
 ---
 
