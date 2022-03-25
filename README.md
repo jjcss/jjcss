@@ -5,12 +5,18 @@
 **Hey there! Welcome to the Computer Science Society Club Github.
 This Github will be a place where all club members will be able to access any project files that we go over during our workshops and we will also be adding additional projects that we do on the side. If you have a project that you would like to upload to the club repository, make sure to message any of the executives on discord and we can begin the process we have in place to have your files uploaded. Also, checkout out our Club Website to get updated on Semester Events.**
 
-
+# Table of Contents
+- [Club Links](#Club-Links)
+- [About Us](#About-Us)
+- [Executive Board](#Executive-Board)
+- [How to Contribute to the Club Website](#How-to-Contribute-to-the-Club-Website)
+- [Spring 2022 Calendar of Events](#Spring-2022-Calendar-of-Events)
+- [Future Features](#Future-Features)
 
 ---
 
 
-# 👨🏻‍💻  Club links
+# Club Links
 🤔   [Discord](https://discord.gg/fJZKErEnPa)
 🎓   [Email](computersocjjay@gmail.com)
 💼   [Instagram](https://www.instagram.com/jjccomputerscience/)
@@ -19,7 +25,7 @@ This Github will be a place where all club members will be able to access any pr
 💎   [Club LinkedIn](https://www.linkedin.com/in/cssclub/)
 🔌 [Club Facebook](https://www.facebook.com/CSSJohnJay)
 
-# About us
+# About Us
 
 The Computer Science Society (CSS) is dedicated to promoting the STEM field, specifically computer science, technology, and mathematics. We work to provide resources for any student, alumni, and professionals regardless of an individual's degree of knowledge or commitment in the field of computer science. CSS meets and hosts events that provide opportunities for networking, educational, and professional development related to computer science and technology. Our mission is to provide students with the skills, resources, motivation, and training necessary to become successful leaders in STEM.
 
@@ -28,7 +34,6 @@ The Computer Science Society (CSS) is dedicated to promoting the STEM field, spe
 - Luis Brito (Vice-President)
 - Tanizl Hassan (Secretary)
 - Rachel Perez (Treasurer)
-
 - Sam Raykhman (Assistant Vice-President)
 - Katharine Wyant (Assistant Secretary
 - Annie He (Assistant Treasurer)
